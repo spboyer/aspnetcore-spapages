@@ -7,7 +7,7 @@
         {
             "taskName": "build",
             "args": [
-                "${workspaceRoot}/spapages.csproj"
+                "${workspaceRoot}/angular-spapages/spapages.csproj"
             ],
             "isBuildCommand": true,
             "problemMatcher": "$msCompile"

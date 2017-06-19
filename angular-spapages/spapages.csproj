@@ -9,9 +9,6 @@
     <PackageReference Include="Microsoft.AspNetCore.SpaServices" Version="1.1.1" />
   </ItemGroup>
   <ItemGroup>
-    <DotNetCliToolReference Include="Microsoft.Extensions.SecretManager.Tools" Version="2.0.0-*" />
-  </ItemGroup>
-  <ItemGroup>
     <!-- Files not to show in IDE -->
     <None Remove="yarn.lock" />
     <!-- Files not to publish (note that the 'dist' subfolders are re-added below) -->
